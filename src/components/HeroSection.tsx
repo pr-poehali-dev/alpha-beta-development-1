@@ -72,8 +72,8 @@ export default function HeroSection() {
             >
               <div className="relative h-48 w-48 overflow-hidden rounded-full border-4 border-white/80 shadow-2xl md:h-64 md:w-64">
                 <img
-                  src="https://cdn.poehali.dev/templates/creative-portfolio-ru/portrait.jpg"
-                  alt="Фотограф"
+                  src="https://cdn.poehali.dev/projects/c9c679da-3166-4690-a697-856fcf93feb9/bucket/7116c274-3a8d-4909-a035-bb5f95c75032.jpg"
+                  alt="Леонид Маньчжур"
                   className="h-full w-full object-cover"
                 />
               </div>
@@ -91,7 +91,7 @@ export default function HeroSection() {
                     Профессиональный фотограф
                   </p>
                   <p className="text-3xl font-light text-white md:text-4xl lg:text-5xl">
-                    Алексей Иванов
+                    Леонид Маньчжур
                   </p>
                   <p className="mt-2 text-lg font-light text-white/70 md:text-xl">
                     Фотограф для медиамейкеров и брендов
@@ -145,9 +145,7 @@ export default function HeroSection() {
                   </a>
 
                   <a
-                    href="https://t.me/"
-                    target="_blank"
-                    rel="noopener noreferrer"
+                    href="mailto:Manzhou25@gmail.com"
                     className="ml-2 rounded-full border border-white/30 px-5 py-2 text-sm text-white/80 backdrop-blur-sm transition-all hover:border-white hover:text-white"
                   >
                     Написать мне
